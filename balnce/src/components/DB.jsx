@@ -1,0 +1,1 @@
+postgresql://argunbarkhas:Qwl95NgYFvaU@ep-calm-cell-a1603vca.ap-southeast-1.aws.neon.tech/DB?sslmode=require
